@@ -1,0 +1,68 @@
+body {
+    background-color: blueviolet;
+    color:white
+}
+.top-menu {
+    background-color: black;
+     display:block;
+    margin:0;
+   width:100%;
+  
+}
+
+header {
+    background-color:white ;
+    display: flex;
+    color:black;
+    justify-content: space-between;
+    
+}
+h1 {
+    color:blueviolet;
+    text-align:left;
+    font-size: 40px;
+    
+}
+li {
+    list-style: none;
+    text-align: right;
+   
+}
+.top-menu button {
+    background-color: black;
+    
+    
+}
+.top-menu a {
+        float:right;
+        text-align: center;
+        color:white;
+        font-size:20px;
+        text-decoration: none;
+
+}
+nav {
+    margin:0;
+}
+.top-row {
+    display: flex;
+    justify-content: center;
+}
+.top-row img {
+    width:100%;
+    
+}
+.top-row p {
+    width: 50%;
+
+}
+.middle-row {
+    display:flex;
+}
+div button {
+    background-color: white;
+    text-color:blueviolet;
+    border-radius: 12px;
+    justify-content: center;
+}
+    
